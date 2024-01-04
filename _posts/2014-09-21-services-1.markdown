@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: ecommerce.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: The Klone E-commerce
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Prepare vour e-commerce for a customer with Apple Vision Pro. The consumers are about to enter. amore engaging wasy or purcnasing good, we can neip you keep up to date.
